@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+    .font-carter-one {
+        font-family: var(--font-carter-one), cursive;
+    }
+}
+
+@theme {
+    --color-primary: #fbe7e6;
+    --color-secondary: #2a2b2c;
+    --color-accent: #f23144;
+}
+
+/* @theme dark{
+    --color-primary: #2a2b2c;
+    --color-secondary: #fbe7e6;
+    --color-accent: #e70a24;
+} */
