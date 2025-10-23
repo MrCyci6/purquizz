@@ -23,6 +23,7 @@
       "@/public/*": ["../public/*"],
       "@/storage/*": ["../storage/*"],
       "@/components/*": ["./components/*"],
+      "@/libs/*": ["./libs/*"],
       "@/types/*": ["./types/*"],
       "@/styles/*": ["./styles/*"]
     }

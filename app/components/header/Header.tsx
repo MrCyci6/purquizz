@@ -1,6 +1,6 @@
 import Link from "next/link"
 
-import FlagButton from "@/components/FlagButton";
+import FlagButton from "@/components/header/FlagButton";
 
 export default function Header() {
     return (

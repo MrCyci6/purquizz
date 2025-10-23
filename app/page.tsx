@@ -1,5 +1,5 @@
-import Stat from "@/components/Stat"
-import StartButton from "@/components/StartButton"
+import Stat from "@/components/home/Stat"
+import StartButton from "@/components/home/StartButton"
 
 export default function Home() {
   return (

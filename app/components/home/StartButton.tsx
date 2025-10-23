@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function StartButton() {
     const handleIncrement = async () => {
-        await fetch("/api/stat", { method: "POST" });
+        await fetch("/api/stat", { method: "PUT" });
     }
 
     return (

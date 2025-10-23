@@ -3,8 +3,8 @@ import { Carter_One } from "next/font/google";
 
 import "@/styles/globals.css";
 
-import Header from "@/components/Header"
-import Footer from "@/components/Footer"
+import Header from "@/components/header/Header"
+import Footer from "@/components/footer/Footer"
 
 const carterOne = Carter_One({
   weight: "400",
